@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+token.txt
+Output/
+# Environment file containing secrets (Hugging Face token etc.)
+.env
+# Optional token file
+.hf_token
