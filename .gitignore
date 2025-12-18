@@ -1,4 +1,4 @@
-.venv/
+myenv/
 .vscode/
 token.txt
 Output/
